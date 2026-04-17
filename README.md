@@ -1,0 +1,1 @@
+A web-based digital farm management system that monitors antimicrobial usage (AMU) and ensures Maximum Residue Limit (MRL) compliance in livestock. It features real-time data tracking, automated withdrawal period calculation, and an interactive dashboard backed by a centralized SQL database.
